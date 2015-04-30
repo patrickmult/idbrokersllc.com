@@ -16,7 +16,7 @@ function loadBannerImages() {
 function runBannerTimer() {
     var t=setTimeout(function(){
         swapBannerImage()
-    },2000);
+    },4000);
 }
 
 function swapBannerImage() {

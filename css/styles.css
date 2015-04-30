@@ -12,6 +12,13 @@
 	margin-bottom: 0px;
 }
 
+.navbar-brand {
+	font-size: 35px;
+	color: white !important;
+}
+
+
+
 body div#banner {
     background: url(../img/00.jpg) no-repeat center;
  /*   -webkit-background-size: cover;
