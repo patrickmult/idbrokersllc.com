@@ -1,0 +1,22 @@
+.sydebar {
+	margin-top: 250px;
+}
+
+.bennercontainer {
+	background-color: blue;
+	height: 300px;
+	width: 100%;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+body div#banner {
+    background: url(../img/00.jpg) no-repeat center;
+ /*   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    height: 300px;
+}
